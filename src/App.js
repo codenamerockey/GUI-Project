@@ -16,7 +16,7 @@ function App() {
     <main>
       <h1>Create React App + Go API</h1>
       <h2>
-        Deployed with{' '}
+        My First React ZEIT APP With Lambda
         <a
           href="https://zeit.co/docs"
           target="_blank"
